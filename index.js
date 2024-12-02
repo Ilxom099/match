@@ -52,7 +52,7 @@ let cart = []
 
 function readBurgers () {
   let a =  burgers.map(item=> `<div class="col-6">
-        <div class="card my-2 bg-info text-white">
+        <div class="card my-2 bg-warning text-white">
             <div class="card-body">
                 <div class="row">
                     <div class="col-3">
